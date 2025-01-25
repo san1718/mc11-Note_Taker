@@ -18,13 +18,13 @@ The users will be able to organize thoughts and keep track of tasks they need to
 
 ## Installation / Usage
 1. Clone Repository (with ssh)
-* git clone git@github.com:san1718/mc11-Note_Taker.git
+    * git clone git@github.com:san1718/mc11-Note_Taker.git
 2. Install Dependencies
-* npm install
+    * npm install
 3. Starting Application
-* node server.js
+    * node server.js
 4. Open Application
-* http://localhost:3001
+    * http://localhost:3001
 
 
 ## Summary
