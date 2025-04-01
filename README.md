@@ -19,6 +19,7 @@ Managing thoughts and tasks efficiently is crucial for productivity. **Note Take
 ✅ **Seamless note organization for better task tracking** 🗂️  
 
 ## Installation & Usage  
+For local: 
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone git@github.com:san1718/mc11-Note_Taker.git
